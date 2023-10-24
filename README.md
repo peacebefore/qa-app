@@ -1,4 +1,4 @@
-# When Sparknotes and ChatGPT Walk Into a Bar
+# When Sparknotes and ChatGPT Walk Into a Bar...
 
 You get an LLM app that allows you to upload your own documents, and it will answer questions in a conversational format about that document's contents.
 Best for when ChatGPT hasn't been trained on the data you need to inquire about, such as:
