@@ -43,7 +43,7 @@ def create_embeddings(chunks):
 
 
 def ask_and_get_answer(vector_store, q, k=3):
-    llm = ChatOpenAI(model='gpt-4', temperature=1)
+    llm = ChatOpenAI(model='gpt-3.5-turbo', temperature=1)
 
     retriever = vector_store.as_retriever(
         search_type='similarity', search_kwargs={'k': k})
