@@ -23,5 +23,6 @@ Best for when ChatGPT hasn't been trained on the data you need to inquire about,
 * Vector Embeddings & Vector Store
 * Chroma / Pinecone
 
+---------------
 
 ![Screenshot 2023-10-23 at 8 42 17 PM](https://github.com/peacebefore/qa-app/assets/42794888/e1de2aac-7b47-418c-a7e2-f3cb572a71e4)
